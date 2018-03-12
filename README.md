@@ -5,7 +5,6 @@ This collection of Jupyter Notebooks will solve various supervised learning prob
 
 1. Credit Card Fraud
   - Use this credit card fraud dataset to develop an algorithm to predict fraud. Prioritize correctly finding fraud rather than correctly labeling non-fraudulent transactions.
-  - Please note: as of 3/1/18, the link to the dataset was broken, and I could not complete the assignment.
 2. Airline Arrivals
   - Use this dataset of airline arrival information to predict how late flights will be. A flight only counts as late if it is more than 30 minutes late.
 3. Amazon Reviews
